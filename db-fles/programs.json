@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6261263221262fdbad2c7655"
+  },
+  "name": "music",
+  "picture": "image",
+  "__v": 0,
+  "program_type_id": {
+    "$oid": "624d89fd69c3c4a1efa91efa"
+  },
+  "description": "jazz"
+},{
+  "_id": {
+    "$oid": "62614584552c9bfa444264f2"
+  },
+  "name": "Bari Luys",
+  "picture": "image",
+  "__v": 0,
+  "program_type_id": {
+    "$oid": "624d89f369c3c4a1efa91ef7"
+  },
+  "description": " new describtion"
+},{
+  "_id": {
+    "$oid": "62614606552c9bfa444264f7"
+  },
+  "name": " Got Talent ",
+  "picture": "image",
+  "__v": 0,
+  "program_type_id": {
+    "$oid": "624d89fd69c3c4a1efa91efa"
+  },
+  "description": "sometthing"
+}]

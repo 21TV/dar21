@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "624ad2ea2c868243715364b2"
+  },
+  "key": "hello",
+  "values": {
+    "en": "hello",
+    "ru": "privet",
+    "am": "barev"
+  },
+  "__v": 0
+}]

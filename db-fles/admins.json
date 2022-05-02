@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6267fb06e65c865bed4066ab"
+  },
+  "name": "admin",
+  "email": "21tv.development@gmail.com",
+  "password": "$2a$08$c7FDCtT4wETG.QuPz99qaepihKOD0pW3c1I3QHLsIp2u6SLNKgGgO",
+  "isAdmin": true,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjY3ZmIwNmU2NWM4NjViZWQ0MDY2YWIiLCJlbWFpbCI6IjIxdHYuZGV2ZWxvcG1lbnRAZ21haWwuY29tIiwiaWF0IjoxNjUxMjIyMTA1LCJleHAiOjE2NTEzMDg1MDV9.S826aY2pZuAQsYsifPxNMrC9AAe1066Lxk_9E7KnhG8",
+  "__v": 0
+}]
